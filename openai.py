@@ -4,7 +4,7 @@ import base64, requests, time, configparser
 api_key = ""
 
 # Model to use
-model = "claude-3-haiku-20240307"
+model = "claude-3-sonnet-20240229"
 
 # Path to your image
 image_path = "test5.jpg"
